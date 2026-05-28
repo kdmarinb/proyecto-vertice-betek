@@ -1,6 +1,6 @@
 # 🏗️ Vértice Ingeniería: Dashboard Ejecutivo de Proyectos
 
-Bienvenido al repositorio oficial del proyecto final desarrollado para **Vértice Ingeniería**. Este proyecto resuelve el problema de fragmentación de información en la gestión de obras mediante un pipeline de datos completo, yendo desde el modelado lógico relacional hasta la visualización ejecutiva para la toma de decisiones.
+Este es el repositorio oficial del proyecto final desarrollado para **Vértice Ingeniería**. Este proyecto resuelve el problema de fragmentación de información en la gestión de obras mediante un pipeline de datos completo, yendo desde el modelado lógico relacional hasta la visualización ejecutiva para la toma de decisiones.
 
 ## 🛠️ Tech Stack
 * **Arquitectura de Datos:** Draw.io
@@ -21,9 +21,9 @@ Somos un equipo multidisciplinario enfocado en transformar datos operativos en a
 * 🔗 [Conecta en LinkedIn](https://www.linkedin.com/in/yessenia-arboleda)
 
 ### Karen Daniela Marin Baez
-**Physics Student at Universidad Nacional de Colombia | Tecnóloga ADSI**
+**Estudiante de pregrado en Física | Tecnóloga ADSI**
 * **Rol:** Arquitectura de bases de datos, backend y automatización de limpieza (ETL).
-* **Súper poder:** Dominio de Python, manejo estructural de bases de datos y modelado lógico.
+* **Súper poder:** Dominio de Python, manejo estructural de bases de datos, modelado lógico y diseño.
 * 🔗 [Conecta en LinkedIn](https://www.linkedin.com/in/kdmarinb) 
 ### Melba Rocío Torres Varón
 **Tecnóloga en Análisis y Desarrollo de Software**
